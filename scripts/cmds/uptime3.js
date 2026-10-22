@@ -4,7 +4,7 @@ const si = require("systeminformation");
 module.exports = {
   config: {
     name: "uptime3",
-    aliases: ["up3"],
+    aliases: ["ups3"],
     version: "1.2",
     author: "Anik Islam Sadik",
     countDown: 5,
