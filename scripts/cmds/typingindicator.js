@@ -3,7 +3,7 @@ const fs = require("fs-extra");
 module.exports = {
   config: {
     name: "typingindicator",
-    aliases: ["typing", "typingtoggle"],
+    aliases: ["typing2", "typingtoggle"],
     version: "1.0",
     author: "xalman",
     countDown: 5,
